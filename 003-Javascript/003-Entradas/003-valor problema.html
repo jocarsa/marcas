@@ -1,0 +1,19 @@
+<!doctype html>
+<html lang="es">
+    <head>
+        <title>Aprendiendo Javascript</title>
+        <meta charset="utf-8">
+        
+    </head>
+    <body>
+       <input type="text" id="campo">
+        <button id="lee">Lee</button>
+        <div id="resultado"></div>
+        <script>
+            document.getElementById("lee").onclick = function(){
+                var texto = document.getElementById("campo").value
+                document.getElementById("resultado").innerHTML = texto
+            }
+        </script>
+    </body>
+</html>

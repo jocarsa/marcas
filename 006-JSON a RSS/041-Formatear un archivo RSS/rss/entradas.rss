@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0">
+    <channel>
+        <title>La web de Jose Vicente</title>
+        <link>https://jocarsa.com</link>
+        <description>Formador, programador, y diseñador en Valencia, España</description>
+        <item>
+            <title>Primera entrada del blog</title>
+            <link>http://jocarsa.com/noticias/1/</link>
+            <description>Este es el primer artículo del blog</description>
+            <guid>http://jocarsa.com/noticias/1/</guid>
+        </item>
+        <item>
+            <title>Segunda entrada del blog</title>
+            <link>http://jocarsa.com/noticias/2/</link>
+            <description>Este es el segundo artículo del blog</description>
+            <guid>http://jocarsa.com/noticias/2/</guid>
+        </item>
+        <item>
+            <title>Tercera entrada del blog</title>
+            <link>http://jocarsa.com/noticias/3/</link>
+            <description>Este es el tercer artículo del blog</description>
+            <guid>http://jocarsa.com/noticias/3/</guid>
+        </item>
+    </channel>
+</rss>

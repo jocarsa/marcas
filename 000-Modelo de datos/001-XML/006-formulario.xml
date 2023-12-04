@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<formulario>
+    <nombre>Jose Vicente</nombre>
+    <asunto>Asunto del mensaje de contacto</asunto>
+    <email>info@josevicentecarratala.com</email>
+    <mensaje>Este es un mensaje de prueba</mensaje>
+</formulario>
